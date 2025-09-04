@@ -7,5 +7,6 @@
     {"name": "TV2", "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b596000_slENG.m3u8?id=2"},
     {"name": "TV6", "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b596000_slENG.m3u8?id=6"},
     {"name": "TvOkey", "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b596000_slENG.m3u8?id=3"},
+    {"name": "TvIkim", "url": "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8"},
     {"name": "TvAlhijrah", "url": "https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/1113/162/video-cif-stream-3.m3u8"}
 ]
