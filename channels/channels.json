@@ -1,6 +1,7 @@
 [
     {"name": "Cartoon Network", "url": "http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/400406155.m3u8"},
     {"name": "Mindanow Network", "url": "https://streams1.comclark.com/overlay/mindanow/chunks.m3u8"},
+    {"name": "AstroAwani", "url": "https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/5025/161/video-cif-stream-3.m3u8"},
     {"name": "TV9", "url": "http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/192004.m3u8"},
     {"name": "DramaSangat", "url": "https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_360p/index.m3u8"},
     {"name": "DuniaSinema", "url": "https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-360H.m3u8"},
