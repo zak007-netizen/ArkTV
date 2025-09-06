@@ -13,6 +13,7 @@
     {"name": "TV6", "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b596000_slENG.m3u8?id=6"},
     {"name": "TvOkey", "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b596000_slENG.m3u8?id=3"},
     {"name": "TvIkim", "url": "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8"},
+    {"name": "SukanRTM", "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b596000_slENG.m3u8?id=4"},
     {"name": "TvAlhijrah", "url": "https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/1113/162/video-cif-stream-3.m3u8"},
     {"name": "RadioEra", "url": "https://n05.rcs.revma.com/gs7xxfmbv4uvv/5_1afc0sltzyu6s02/playlist.m3u8"}
 ]
