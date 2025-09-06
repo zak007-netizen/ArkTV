@@ -32,6 +32,8 @@
     {"name": "Originals", "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8"},
     {"name": "CineEdge", "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8"},
     {"name": "Uniques", "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8"},
+    {"name": "Superrix", "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8"},
+    {"name": "BuddyStar", "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8"},
     {"name": "RadioEra", "url": "https://n05.rcs.revma.com/gs7xxfmbv4uvv/5_1afc0sltzyu6s02/playlist.m3u8"},
     {"name": "SuriaFM", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac?dist=joox"},
     {"name": "HitzFM", "url": "https://n44a-eu.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjefoL1wA4gsb9_QKnRtX6w"},
