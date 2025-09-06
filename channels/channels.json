@@ -9,6 +9,7 @@
     {"name": "RTNews", "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"},
     {"name": "CBSNews", "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"},
     {"name": "Bloomberg", "url": "https://bloomberg.com/media-manifest/streams/asia.m3u8"},
+    {"name": "AstroShowcase", "url": "https://dl.dropboxusercontent.com/scl/fi/q17f8p1vmpjub18n35v20/showcase.m3u8?rlkey=5jh80h4jrxob7jf3z1l3jwww1"},
     {"name": "TV9", "url": "http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/192004.m3u8"},
     {"name": "DramaSangat", "url": "https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_480p/index.m3u8"},
     {"name": "DuniaSinema", "url": "https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-360H.m3u8"},
