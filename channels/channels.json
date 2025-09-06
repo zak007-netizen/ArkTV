@@ -7,7 +7,7 @@
     {"name": "TV9", "url": "http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/192004.m3u8"},
     {"name": "DramaSangat", "url": "https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_480p/index.m3u8"},
     {"name": "DuniaSinema", "url": "https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-360H.m3u8"},
-    {"name": "TVS", "url": "https://stream2.smg.my/live/tvs.m3u8"},
+    {"name": "TVS", "url": "https://live-tvs.tvsarawak.my/live/tvs.m3u8"},
     {"name": "TV1", "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b596000_slENG.m3u8?id=1"},
     {"name": "TV2", "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b596000_slENG.m3u8?id=2"},
     {"name": "TV6", "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b596000_slENG.m3u8?id=6"},
