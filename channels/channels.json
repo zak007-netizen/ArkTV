@@ -1,1 +1,37 @@
-
+[
+  {
+    "name": "📰 BBC News",
+    "url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news/chunklist.m3u8",
+    "category": "News",
+    "quality": "HD",
+    "language": "English"
+  },
+  {
+    "name": "⚽ ESPN",
+    "url": "https://espn-live.stream/espn.m3u8",
+    "category": "Sports",
+    "quality": "HD",
+    "language": "English"
+  },
+  {
+    "name": "🎬 HBO",
+    "url": "https://hbo-stream.com/hbo.m3u8",
+    "category": "Movies",
+    "quality": "FHD",
+    "language": "English"
+  },
+  {
+    "name": "🎵 MTV",
+    "url": "https://mtv-stream.com/mtv.m3u8",
+    "category": "Music",
+    "quality": "HD",
+    "language": "English"
+  },
+  {
+    "name": "👶 Disney Channel",
+    "url": "https://disney-stream.com/disney.m3u8",
+    "category": "Kids",
+    "quality": "HD",
+    "language": "English"
+  }
+]
